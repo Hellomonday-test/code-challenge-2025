@@ -1,0 +1,23 @@
+[
+  {
+    "email": "john.doe@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "password123",
+    "isLoggedIn": false
+  },
+  {
+    "email": "jane.smith@example.com",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "password": "password456",
+    "isLoggedIn": false
+  },
+  {
+    "email": "test@hellomonday.com",
+    "firstName": "Test",
+    "lastName": "User",
+    "password": "test123",
+    "isLoggedIn": false
+  }
+]
